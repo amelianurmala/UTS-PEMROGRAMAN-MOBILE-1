@@ -18,7 +18,9 @@ LINK UI DESIGN : https://www.figma.com/design/fTisvVyPF3Cn7YXukbyc3m/UI-DESIGN?n
 
 LINK UI DESIGN DETAIL : https://www.figma.com/design/1kTacnPOvPdZJXRPDprL2e/UI-DESIGN-DETAIL?node-id=0-1&t=jsCxKSGNMwIrUBLh-1\
 
+LINK PROTOTYPE : https://www.figma.com/proto/fTisvVyPF3Cn7YXukbyc3m/UI-DESIGN?node-id=468-563&p=f&t=7oeVXhYojt61hNT7-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=468%3A555 
+
 LINK UX :
 
-LINK CLICKUP :
+LINK CLICKUP : https://sharing.clickup.com/90181767922/b/h/6-901812361560-2/b6ff55ac7bf5151
 
