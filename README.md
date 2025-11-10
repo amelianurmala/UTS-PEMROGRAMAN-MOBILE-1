@@ -20,7 +20,7 @@ LINK UI DESIGN DETAIL : https://www.figma.com/design/1kTacnPOvPdZJXRPDprL2e/UI-D
 
 LINK PROTOTYPE : https://www.figma.com/proto/fTisvVyPF3Cn7YXukbyc3m/UI-DESIGN?node-id=468-563&p=f&t=7oeVXhYojt61hNT7-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=468%3A555 
 
-LINK UX :
+LINK UX : https://youtube.com/shorts/jg2aXY6454Y?si=7DhN8Cav4ER2AEuk
 
 LINK CLICKUP : https://sharing.clickup.com/90181767922/b/h/6-901812361560-2/b6ff55ac7bf5151
 
